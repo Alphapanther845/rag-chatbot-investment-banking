@@ -56,7 +56,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/investment-banker-chatbot.git
+git clone https://github.com/Alphapanther845/rag-chatbot-investment-banking
 cd investment-banker-chatbot
 Install Python Dependencies
 
